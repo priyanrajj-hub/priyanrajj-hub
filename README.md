@@ -1,110 +1,57 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Priyanraj J</h1>
 
-# 👋 Hi, I'm Priyanraj J
+<h3 align="center">
+AI & Data Science Enthusiast | B.Tech CCE @ Amrita | IIT Madras BS DS | IIT Guwahati BS DSAI
+</h3>
 
-### AI & Data Science Enthusiast | B.Tech CCE @ Amrita | IIT Madras BS DS | IIT Guwahati BS DSAI
+<h3 align="center">
+Research Oriented Learner 🚀
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Research+Oriented+Learner;Open+Source+Explorer;Startup+Enthusiast;Future+Engineer" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=priyanrajj-hub&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Portfolio Banner
-
-<img src="assets/banner.png" width="100%"/>
-
-</div>
+<p align="center">
+<img src="./banner.png" width="100%">
+</p>
 
 ---
 
 # 🚀 About Me
 
 ```yaml
-Name        : Priyanraj J
-
-Education   :
-  - Amrita Vishwa Vidyapeetham
-  - IIT Madras
-  - IIT Guwahati
-
-Degree      :
-  - B.Tech CCE
-  - BS Data Science
-  - BS Data Science & AI
-
-Year        : 2nd Year
-
-Location    : Tamil Nadu, India
-
-Languages   :
-  - Python
-  - C
-  - C++
-
-Interests   :
-  - Artificial Intelligence
-  - Data Science
-  - Research
-  - Open Source
-  - Startups
-  - Competitive Programming
-  - Software Engineering
-  - Hardware Systems
-  - Stock Market
-
-Goal        :
-  - Crack GATE CSE
-  - Build AI Projects
-  - Research Career
-  - Open Source Contributions
+Name       : Priyanraj J
+Education  : Amrita + IIT Madras + IIT Guwahati
+Degree     : B.Tech CCE + Dual BS Degrees
+Year       : 2nd Year
+Location   : Tamil Nadu, India
 ```
+
+### 🌱 Currently Learning
+
+- Python
+- C Programming
+- C++
+- Data Structures & Algorithms
+- Machine Learning
+- Artificial Intelligence
+
+### 🔭 Exploring
+
+- AI & Machine Learning
+- Data Science
+- Research
+- Software Engineering
+- Open Source
+- Startups
+- Competitive Programming
 
 ---
 
-# 🎓 Academic Journey
+# 🎓 Education
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<h3>🏛️ Amrita Vishwa Vidyapeetham</h3>
-
-B.Tech Computer & Communication Engineering
-
-2025 - 2029
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🏛️ IIT Madras</h3>
-
-BS Data Science & Applications
-
-2025 - Present
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🏛️ IIT Guwahati</h3>
-
-BS Data Science & AI
-
-2025 - Present
-
-</td>
-
-</tr>
-</table>
+| Degree | Institute |
+|----------|----------|
+| B.Tech Computer & Communication Engineering | Amrita Vishwa Vidyapeetham |
+| BS Data Science & Applications | IIT Madras |
+| BS Data Science & AI | IIT Guwahati |
 
 ---
 
@@ -118,37 +65,19 @@ BS Data Science & AI
 
 ---
 
-# 🏆 Certifications
+# 📂 Featured Projects
 
-✅ NPTEL – Joy of Computing Using Python
+## 💊 Pharmaceutical Evergreening Detection and Management
 
-✅ NPTEL – English Language for Competitive Exams
-
-✅ Infosys – Computational Problem Solving
-
-✅ IIT Guwahati DS & AI Orientation Course
-
-✅ IEEE Membership
-
----
-
-# 🚀 Featured Projects
-
-## 💊 Pharmaceutical Evergreening Detection & Management
-
-Built using C Programming
-
-Features:
-
-- Pharmaceutical Data Management
-- Record Handling
-- Detection System
+- Built using C Programming
+- Pharmaceutical data management
+- Drug lifecycle analysis
 
 ---
 
 ## 🤖 Smart Autonomous Patrol Robot
 
-Features:
+### Features
 
 - Obstacle Avoidance
 - Gas Detection
@@ -159,27 +88,59 @@ Features:
 
 ## 🐍 Python Learning Repository
 
-Features:
-
 - Python Practice Programs
 - Problem Solving
-- DSA Learning
-- IIT Madras Assignments
+- Beginner Projects
+
+---
+
+# 🏆 Certifications
+
+✅ NPTEL – The Joy of Computing Using Python
+
+✅ NPTEL – English Language for Competitive Exams
+
+✅ Infosys – Computational Problem Solving
+
+✅ IIT Guwahati BS DS & AI Orientation Course
+
+✅ IEEE Membership
 
 ---
 
 # 🧠 Competitive Programming
 
-| Platform | Username |
-|-----------|-----------|
-| LeetCode | PRIYANRAJ |
-| Codeforces | user_733863963 |
-| AtCoder | priyanraj |
-| HackerRank | @priyanraj |
+### LeetCode
+
+https://leetcode.com/u/PRIYANRAJ
+
+### HackerRank
+
+https://www.hackerrank.com/
+
+### GitHub
+
+https://github.com/priyanrajj-hub
 
 ---
 
-# 📊 GitHub Analytics
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyanraj">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:priyanrajj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -189,19 +150,13 @@ Features:
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight"/>
-
-</p>
-
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanrajj-hub&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight">
 
 </p>
 
@@ -211,7 +166,7 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanrajj-hub&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanrajj-hub&theme=tokyo-night">
 
 </p>
 
@@ -221,13 +176,23 @@ Features:
 
 🏆 IEEE Member
 
-🏆 Pursuing IIT Madras + IIT Guwahati Degrees alongside B.Tech
+🏆 Pursuing Dual IIT Degrees Alongside B.Tech
 
-🏆 Active Learner in AI & Data Science
+🏆 AI & Data Science Enthusiast
 
 🏆 Research Oriented Learner
 
 🏆 Open Source Explorer
+
+---
+
+# 💻 Workspace
+
+🖥️ ASUS TUF Gaming Laptop
+
+⚙️ Intel Core i7
+
+🎮 NVIDIA RTX 5060
 
 ---
 
@@ -242,40 +207,16 @@ Features:
 
 ---
 
-# 💻 Workspace
+<h3 align="center">
 
-🖥️ ASUS TUF Gaming
+🦇 Learning relentlessly. Building consistently. Growing every day.
 
-⚙️ Intel Core i7
-
-🎮 NVIDIA RTX 5060
+</h3>
 
 ---
 
-# 🌐 Connect With Me
+<h3 align="center">
 
-<p align="center">
+⭐ Thanks for visiting my profile ⭐
 
-<a href="https://www.linkedin.com/in/priyanraj">
-<img src="https://img.shields.io/badge/LinkedIn-Priyanraj-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:priyanrajj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-priyanrajj%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/priyanrajj-hub">
-<img src="https://img.shields.io/badge/GitHub-priyanrajj--hub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 🦇 Learning Relentlessly • Building Consistently • Growing Every Day
-
-⭐ Priyanraj J
-
-</div>
+</h3>
