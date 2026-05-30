@@ -1,70 +1,92 @@
-<h1 align="center">Hi 👋, I'm Priyanraj J</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Enthusiast | B.Tech CCE Student | Future Researcher
-</h3>
+<img src="assets/banner.png" width="100%" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Enthusiast;B.Tech+CCE+Student+at+Amrita+Vishwa+Vidyapeetham;IIT+Madras+BS+in+Data+Science;IIT+Guwahati+BS+in+Data+Science+%26+AI;Python+Developer;Machine+Learning+Explorer;Future+Researcher+%7C+Builder+%7C+Learner" />
-</p>
+# 👋 Hi, I'm Priyanraj J
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanrajj-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+### AI & Data Science Enthusiast | B.Tech CCE @ Amrita | IIT Madras BS DS | IIT Guwahati BS DSAI
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Research+Oriented+Learner;Open+Source+Explorer;Startup+Enthusiast;Future+Engineer" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=priyanrajj-hub&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-🎓 **B.Tech Computer & Communication Engineering**  
-🏛️ Amrita Vishwa Vidyapeetham, Chennai
+```yaml
+Name        : Priyanraj J
+Education   : Amrita + IIT Madras + IIT Guwahati
+Degree      : B.Tech CCE + Dual BS Degrees
+Year        : 2nd Year
+Location    : Tamil Nadu, India
 
-🎓 **BS in Data Science and Applications**  
-🏛️ IIT Madras
+Languages   :
+  - Python
+  - C
+  - C++
 
-🎓 **BS in Data Science and AI**  
-🏛️ IIT Guwahati
+Interested In:
+  - Artificial Intelligence
+  - Data Science
+  - Research
+  - Open Source
+  - Startups
+  - Competitive Programming
+  - Software Engineering
+  - Hardware Systems
+  - Stock Market
 
-🌱 Currently Learning:
-- Python
-- C Programming
-- C++
-- Data Structures & Algorithms
-- Machine Learning
-- Artificial Intelligence
-
-🔭 Exploring:
-- AI & ML
-- Data Science
-- Research
-- Startups
-- Software Engineering
-- Hardware Systems
-- Open Source
-- Stock Market
-
-⚡ Fun Fact:
-> I love exploring multiple domains and building a strong interdisciplinary foundation before specializing.
+Goal:
+  - Crack GATE CSE
+  - Build AI Projects
+  - Contribute to Open Source
+  - Build Research Portfolio
+```
 
 ---
 
-# 🌐 Connect With Me
+# 🎓 Academic Journey
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://www.linkedin.com/in/priyanraj">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<td align="center">
 
-<a href="mailto:priyanrajj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<h3>🏛️ Amrita Vishwa Vidyapeetham</h3>
 
-<a href="https://github.com/priyanrajj-hub">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+B.Tech Computer & Communication Engineering
 
-</p>
+2025 - 2029
+
+</td>
+
+<td align="center">
+
+<h3>🏛️ IIT Madras</h3>
+
+BS Data Science & Applications
+
+2025 - Present
+
+</td>
+
+<td align="center">
+
+<h3>🏛️ IIT Guwahati</h3>
+
+BS Data Science & AI
+
+2025 - Present
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -72,71 +94,70 @@ AI & Data Science Enthusiast | B.Tech CCE Student | Future Researcher
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode" />
 
 </p>
 
 ---
 
-# 📂 Featured Projects
-
-## 💊 Pharmaceutical Evergreening Detection and Management
-- Built using C Programming
-- Management and detection system for pharmaceutical data
-
-## 🤖 Smart Autonomous Patrol Robot
-Features:
-- Obstacle Avoidance
-- Gas Detection
-- Temperature Monitoring
-- Velocity Tracking
-
-## 🐍 Python Learning Repository
-- Python practice programs
-- Problem-solving exercises
-- Data structure implementations
-
----
-
 # 🏆 Certifications
 
-✅ NPTEL – The Joy of Computing Using Python
+✅ NPTEL – Joy of Computing Using Python
 
 ✅ NPTEL – English Language for Competitive Exams
 
 ✅ Infosys – Computational Problem Solving
 
-✅ IIT Guwahati BS DS & AI Orientation Course
+✅ IIT Guwahati DS & AI Orientation Course
 
 ✅ IEEE Membership
 
 ---
 
-# 🎓 Education
+# 🚀 Featured Projects
 
-| Degree | Institute |
-|----------|----------|
-| B.Tech CCE | Amrita Vishwa Vidyapeetham |
-| BS Data Science | IIT Madras |
-| BS Data Science & AI | IIT Guwahati |
+## 💊 Pharmaceutical Evergreening Detection & Management
+
+Built using C Programming
+
+Features:
+
+- Pharmaceutical Data Management
+- Record Handling
+- Detection System
 
 ---
 
-# 🧠 Competitive Programming
+## 🤖 Smart Autonomous Patrol Robot
 
-🔹 LeetCode : PRIYANRAJ
+Features:
 
-🔹 Codeforces : user_733863963
+- Obstacle Avoidance
+- Gas Detection
+- Temperature Monitoring
+- Velocity Tracking
 
-🔹 AtCoder : priyanraj
+---
 
-🔹 HackerRank : @priyanraj
+## 🐍 Python Learning Repository
+
+Features:
+
+- Python Practice Programs
+- Problem Solving
+- DSA Learning
+- IIT Madras Assignments
+
+---
+
+# 🧠 Competitive Programming Profiles
+
+| Platform | Username |
+|-----------|-----------|
+| LeetCode | PRIYANRAJ |
+| Codeforces | user_733863963 |
+| AtCoder | priyanraj |
+| HackerRank | @priyanraj |
 
 ---
 
@@ -144,19 +165,25 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight"/>
 
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=priyanrajj-hub&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -164,7 +191,11 @@ Features:
 
 # 📈 Contribution Graph
 
-[![Priyanraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanrajj-hub&theme=tokyo-night)](https://github.com/priyanrajj-hub)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanrajj-hub&theme=tokyo-night"/>
+
+</p>
 
 ---
 
@@ -178,15 +209,7 @@ Features:
 
 🏆 Open Source Enthusiast
 
----
-
-# 💻 Workspace
-
-🖥️ ASUS TUF Gaming Laptop
-
-⚙️ Intel Core i7
-
-🎮 NVIDIA RTX 5060
+🏆 Research Oriented Learner
 
 ---
 
@@ -201,12 +224,42 @@ Features:
 
 ---
 
-<h3 align="center">
+# 💻 Workspace
 
-🦇 "Learning relentlessly. Building consistently. Growing every day."
+🖥️ ASUS TUF Gaming Laptop
 
-</h3>
+⚙️ Intel Core i7
 
-<h4 align="center">
-⭐ From Priyanraj J
-</h4>
+🎮 NVIDIA RTX 5060
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyanraj">
+<img src="https://img.shields.io/badge/LinkedIn-Priyanraj-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:priyanrajj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-priyanrajj%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/priyanrajj-hub">
+<img src="https://img.shields.io/badge/GitHub-priyanrajj--hub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 🦇 Learning Relentlessly • Building Consistently • Growing Every Day
+
+### ⭐ Priyanraj J
+
+AI & Data Science Enthusiast | Future Researcher | Startup Explorer
+
+</div>
