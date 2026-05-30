@@ -1,268 +1,155 @@
-<h1 align="center">👋 Hi, I'm Priyanraj J</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Enthusiast | B.Tech CCE Student | Future Researcher
-</h3>
+<!-- HEADER BANNER - Replace with your actual banner image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=PRIYANRAJ%20J&fontSize=60&fontColor=6ee7b7&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Builder%20%7C%20Researcher&descColor=818cf8&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=priyanrajj-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<!-- BADGES ROW -->
+<a href="https://www.linkedin.com/in/priyanraj"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:priyanrajj@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/PRIYANRAJ"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://komarev.com/ghpvc/?username=priyanrajj-hub&style=for-the-badge&color=6ee7b7&label=PROFILE+VIEWS"/>
 
-<hr>
+<br/><br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/priyanrajj-hub/priyanrajj-hub/main/banner.png" width="100%" alt="Priyanraj Banner"/>
-</p>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=B.Tech+CCE+%40+Amrita+Vishwa+Vidyapeetham;BS+Data+Science+%40+IIT+Madras+%7C+BS+DSAI+%40+IIT+Guwahati" alt="Typing SVG"/>
 
-<hr>
+</div>
 
-# 🚀 About Me
+---
+
+## `$ whoami`
 
 ```yaml
-Name      : Priyanraj J
-Location  : Tamil Nadu, India
-Education : Amrita + IIT Madras + IIT Guwahati
-Degree    : B.Tech CCE + Dual BS Degrees
-Year      : First Year
-Goal      : AI Researcher & Software Engineer
+name       : Priyanraj J
+location   : Tamil Nadu, India
+education  : Amrita + IIT Madras + IIT Guwahati
+degrees    : B.Tech CCE  +  BS Data Science  +  BS DSAI
+year       : First Year (2025–)
+goal       : AI Researcher & Software Engineer
+ieee       : Active Member
 ```
 
-### 🎓 Education
-
-🏛️ **Amrita Vishwa Vidyapeetham, Chennai**
-- B.Tech Computer & Communication Engineering
-
-🏛️ **IIT Madras**
-- BS Data Science and Applications
-
-🏛️ **IIT Guwahati**
-- BS Data Science and Artificial Intelligence
+> *"Exploring multiple domains and building a strong interdisciplinary foundation before specializing."*
 
 ---
 
-# 🌱 Currently Learning
+## 🎓 Education
 
-- Python Programming
-- C Programming
-- C++
-- Data Structures & Algorithms
-- Machine Learning
-- Artificial Intelligence
-
----
-
-# 🔭 Exploring
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Software Engineering
-- Open Source
-- Research
-- Startups
-- Hardware Systems
-- Stock Market
+| Institution | Programme | Status |
+|---|---|---|
+| 🏛 Amrita Vishwa Vidyapeetham, Chennai | B.Tech — Computer & Communication Engineering | 🟢 Active |
+| 🔬 IIT Madras | BS — Data Science and Applications | 🟢 Active |
+| ⚙️ IIT Guwahati | BS — Data Science and Artificial Intelligence | 🟢 Active |
 
 ---
 
-# 💻 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-</p>
+</div>
 
----
+**Currently learning** → DSA · Machine Learning · Data Structures · Algorithms
 
-# 📂 Featured Projects
-
-## 💊 Pharmaceutical Evergreening Detection and Management
-
-- Built using C Programming
-- Pharmaceutical data management system
-- Drug information processing
-
-### Skills Used
-
-- C Programming
-- Problem Solving
-- Data Management
+**Exploring** → AI Research · Open Source · Embedded Systems · Stock Market · Startups
 
 ---
 
-## 🤖 Smart Autonomous Patrol Robot
+## 📂 Projects
 
-### Features
+### 💊 Pharmaceutical Evergreening Detection & Management
+> Patent registry system built in C — drug data management with fuzzy name matching via **Levenshtein edit distance**, date/category table display, and file I/O.
 
-- Obstacle Avoidance
-- Gas Detection
-- Temperature Monitoring
-- Velocity Tracking
-- Autonomous Navigation
-
-### Skills Used
-
-- Embedded Systems
-- Sensors
-- Robotics
+`C` `File I/O` `Algorithms` `Structs` `Data Management`
 
 ---
 
-## 🐍 Python Learning Repository
+### 🤖 Smart Autonomous Patrol Robot
+> Embedded robotics project featuring obstacle avoidance, gas + temperature sensors, velocity tracking, and full autonomous navigation.
 
-### Includes
-
-- Python Fundamentals
-- Practice Programs
-- Problem Solving
-- Mini Projects
-- Data Structures Basics
+`Embedded C` `Sensors` `Robotics` `Autonomous Systems`
 
 ---
 
-# 🏆 Certifications
+### 🐍 Student Management System
+> Full Python CLI system — attendance tracking, ranking, CSV export, backup, and reporting.
 
-✅ NPTEL – The Joy of Computing Using Python
+`Python` `CSV` `OOP` `CLI`
 
-✅ NPTEL – English Language for Competitive Exams
-
-✅ Infosys – Computational Problem Solving
-
-✅ IIT Guwahati BS DS & AI Orientation Course
-
-✅ IEEE Membership
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/priyanrajj-hub/student-management-system-python)
 
 ---
 
-# 🏅 Achievements
+## 📊 GitHub Stats
 
-🏆 IEEE Member
+<div align="center">
 
-🏆 Pursuing Dual IIT Degrees Alongside B.Tech
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=github_dark&hide_border=true&title_color=6ee7b7&icon_color=818cf8&text_color=e2e8f0&bg_color=0d1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=github_dark&hide_border=true&title_color=6ee7b7&text_color=e2e8f0&bg_color=0d1117"/>
 
-🏆 AI & Data Science Enthusiast
+</div>
 
-🏆 Active Learner in Programming
-
-🏆 Research-Oriented Student
-
-🏆 Open Source Learner
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=github-dark-blue&hide_border=true&ring=6ee7b7&fire=f472b6&currStreakLabel=818cf8"/>
+</div>
 
 ---
 
-# 🧠 Competitive Programming
+## 🏆 Certifications
 
-### LeetCode
+- ✦ **NPTEL** — The Joy of Computing Using Python
+- ✦ **NPTEL** — English Language for Competitive Exams
+- ✦ **Infosys** — Computational Problem Solving
+- ✦ **IIT Guwahati** — BS DSAI Orientation Course
+- ✦ **IEEE** — Active Member
 
-```text
-PRIYANRAJ
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-PRIYANRAJ-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PRIYANRAJ)
+[![Codeforces](https://img.shields.io/badge/Codeforces-user__733863963-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/user_733863963)
+[![AtCoder](https://img.shields.io/badge/AtCoder-priyanraj-222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/priyanraj)
+[![HackerRank](https://img.shields.io/badge/HackerRank-@priyanraj-00ea64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/priyanraj)
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
 ```
-
-### Codeforces
-
-```text
-user_733863963
-```
-
-### AtCoder
-
-```text
-priyanraj
-```
-
-### HackerRank
-
-```text
-@priyanraj
+Q2 2026  ████████░░  Master Python + DSA fundamentals
+Q3 2026  ██████░░░░  Build & deploy first AI/ML project
+Q4 2026  ████░░░░░░  Open source contributions + research portfolio
+2027     ██░░░░░░░░  GATE CSE prep + publish technical work
 ```
 
 ---
 
-# 📊 GitHub Statistics
+## 💻 Workspace
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=tokyonight"/>
-</p>
+| | |
+|---|---|
+| 🖥 Machine | ASUS TUF Gaming Laptop |
+| ⚙️ CPU | Intel Core i7 |
+| 🎮 GPU | NVIDIA RTX 5060 |
+| 📍 Location | Tamil Nadu, India · UTC+5:30 |
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanrajj-hub&theme=tokyo-night"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=🦇%20Learning%20Relentlessly%20%C2%B7%20Building%20Consistently%20%C2%B7%20Growing%20Every%20Day&fontSize=13&fontColor=64748b&fontAlignY=65&animation=fadeIn" width="100%"/>
 
----
-
-# 🎯 2026 Goals
-
-- Master Python
-- Learn DSA
-- Build AI Projects
-- Contribute to Open Source
-- Improve Competitive Programming
-- Crack GATE CSE
-- Build Research Portfolio
-- Publish Technical Projects
-
----
-
-# 💻 Workspace
-
-🖥️ ASUS TUF Gaming Laptop
-
-⚙️ Intel Core i7
-
-🎮 NVIDIA RTX 5060
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/priyanraj">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:priyanrajj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/priyanrajj-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-I enjoy exploring multiple domains and building a strong interdisciplinary foundation before specializing.
-
----
-
-<h2 align="center">
-🦇 Learning Relentlessly • Building Consistently • Growing Every Day
-</h2>
-
----
-
-<h3 align="center">
-⭐ Thanks For Visiting My Profile ⭐
-</h3>
+</div>
