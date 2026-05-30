@@ -8,17 +8,15 @@ AI & Data Science Enthusiast | B.Tech CCE Student | Future Researcher
 <img src="https://komarev.com/ghpvc/?username=priyanrajj-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
-
-# 🚀 Portfolio Banner
+<hr>
 
 <p align="center">
-<img src="./ChatGPT Image May 30, 2026, 07_08_09 PM.png" width="100%">
+<img src="https://raw.githubusercontent.com/priyanrajj-hub/priyanrajj-hub/main/banner.png" width="100%" alt="Priyanraj Banner"/>
 </p>
 
----
+<hr>
 
-# 🧑‍💻 About Me
+# 🚀 About Me
 
 ```yaml
 Name      : Priyanraj J
@@ -50,7 +48,6 @@ Goal      : AI Researcher & Software Engineer
 - Data Structures & Algorithms
 - Machine Learning
 - Artificial Intelligence
-- Problem Solving
 
 ---
 
@@ -87,11 +84,15 @@ Goal      : AI Researcher & Software Engineer
 
 ## 💊 Pharmaceutical Evergreening Detection and Management
 
-### Features
-- Pharmaceutical data management
-- Drug tracking system
-- Information processing
-- Developed using C Programming
+- Built using C Programming
+- Pharmaceutical data management system
+- Drug information processing
+
+### Skills Used
+
+- C Programming
+- Problem Solving
+- Data Management
 
 ---
 
@@ -105,6 +106,12 @@ Goal      : AI Researcher & Software Engineer
 - Velocity Tracking
 - Autonomous Navigation
 
+### Skills Used
+
+- Embedded Systems
+- Sensors
+- Robotics
+
 ---
 
 ## 🐍 Python Learning Repository
@@ -114,8 +121,8 @@ Goal      : AI Researcher & Software Engineer
 - Python Fundamentals
 - Practice Programs
 - Problem Solving
-- Data Structure Basics
 - Mini Projects
+- Data Structures Basics
 
 ---
 
@@ -137,15 +144,15 @@ Goal      : AI Researcher & Software Engineer
 
 🏆 IEEE Member
 
-🏆 Pursuing Dual IIT Degrees alongside B.Tech
+🏆 Pursuing Dual IIT Degrees Alongside B.Tech
 
 🏆 AI & Data Science Enthusiast
 
 🏆 Active Learner in Programming
 
-🏆 Open Source Learner
-
 🏆 Research-Oriented Student
+
+🏆 Open Source Learner
 
 ---
 
@@ -154,25 +161,25 @@ Goal      : AI Researcher & Software Engineer
 ### LeetCode
 
 ```text
-Username : PRIYANRAJ
+PRIYANRAJ
 ```
 
 ### Codeforces
 
 ```text
-Username : user_733863963
+user_733863963
 ```
 
 ### AtCoder
 
 ```text
-Username : priyanraj
+priyanraj
 ```
 
 ### HackerRank
 
 ```text
-Username : @priyanraj
+@priyanraj
 ```
 
 ---
@@ -180,21 +187,15 @@ Username : @priyanraj
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight"/>
+</p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -202,9 +203,7 @@ Username : @priyanraj
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanrajj-hub&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -224,15 +223,9 @@ Username : @priyanraj
 
 # 💻 Workspace
 
-### Laptop
-
-🖥️ ASUS TUF Gaming
-
-### Processor
+🖥️ ASUS TUF Gaming Laptop
 
 ⚙️ Intel Core i7
-
-### Graphics
 
 🎮 NVIDIA RTX 5060
 
@@ -251,7 +244,7 @@ Username : @priyanraj
 </a>
 
 <a href="https://github.com/priyanrajj-hub">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -265,13 +258,11 @@ I enjoy exploring multiple domains and building a strong interdisciplinary found
 ---
 
 <h2 align="center">
-
 🦇 Learning Relentlessly • Building Consistently • Growing Every Day
-
 </h2>
 
 ---
 
 <h3 align="center">
-⭐ Thank you for visiting my profile ⭐
+⭐ Thanks For Visiting My Profile ⭐
 </h3>
