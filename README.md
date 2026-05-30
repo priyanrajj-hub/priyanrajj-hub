@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" />
-
 # 👋 Hi, I'm Priyanraj J
 
 ### AI & Data Science Enthusiast | B.Tech CCE @ Amrita | IIT Madras BS DS | IIT Guwahati BS DSAI
@@ -16,13 +14,33 @@
 
 ---
 
+<div align="center">
+
+# 🚀 Portfolio Banner
+
+<img src="assets/banner.png" width="100%"/>
+
+</div>
+
+---
+
 # 🚀 About Me
 
 ```yaml
 Name        : Priyanraj J
-Education   : Amrita + IIT Madras + IIT Guwahati
-Degree      : B.Tech CCE + Dual BS Degrees
+
+Education   :
+  - Amrita Vishwa Vidyapeetham
+  - IIT Madras
+  - IIT Guwahati
+
+Degree      :
+  - B.Tech CCE
+  - BS Data Science
+  - BS Data Science & AI
+
 Year        : 2nd Year
+
 Location    : Tamil Nadu, India
 
 Languages   :
@@ -30,7 +48,7 @@ Languages   :
   - C
   - C++
 
-Interested In:
+Interests   :
   - Artificial Intelligence
   - Data Science
   - Research
@@ -41,11 +59,11 @@ Interested In:
   - Hardware Systems
   - Stock Market
 
-Goal:
+Goal        :
   - Crack GATE CSE
   - Build AI Projects
-  - Contribute to Open Source
-  - Build Research Portfolio
+  - Research Career
+  - Open Source Contributions
 ```
 
 ---
@@ -55,7 +73,7 @@ Goal:
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
 <h3>🏛️ Amrita Vishwa Vidyapeetham</h3>
 
@@ -65,7 +83,7 @@ B.Tech Computer & Communication Engineering
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 <h3>🏛️ IIT Madras</h3>
 
@@ -75,7 +93,7 @@ BS Data Science & Applications
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 <h3>🏛️ IIT Guwahati</h3>
 
@@ -150,7 +168,7 @@ Features:
 
 ---
 
-# 🧠 Competitive Programming Profiles
+# 🧠 Competitive Programming
 
 | Platform | Username |
 |-----------|-----------|
@@ -161,7 +179,7 @@ Features:
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -203,13 +221,13 @@ Features:
 
 🏆 IEEE Member
 
-🏆 Pursuing Dual IIT Degrees alongside B.Tech
+🏆 Pursuing IIT Madras + IIT Guwahati Degrees alongside B.Tech
 
-🏆 Active Learner in AI, Data Science and Software Engineering
-
-🏆 Open Source Enthusiast
+🏆 Active Learner in AI & Data Science
 
 🏆 Research Oriented Learner
+
+🏆 Open Source Explorer
 
 ---
 
@@ -226,7 +244,7 @@ Features:
 
 # 💻 Workspace
 
-🖥️ ASUS TUF Gaming Laptop
+🖥️ ASUS TUF Gaming
 
 ⚙️ Intel Core i7
 
@@ -258,8 +276,6 @@ Features:
 
 ## 🦇 Learning Relentlessly • Building Consistently • Growing Every Day
 
-### ⭐ Priyanraj J
-
-AI & Data Science Enthusiast | Future Researcher | Startup Explorer
+⭐ Priyanraj J
 
 </div>
