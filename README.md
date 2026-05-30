@@ -1,16 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanraj%20J&fontSize=52&fontColor=fff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Builder%20%7C%20Researcher&descColor=aaa&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+```
+██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗██████╗  █████╗      ██╗
+██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗     ██║
+██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║██████╔╝███████║     ██║
+██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔══██╗██╔══██║██   ██║
+██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║██║  ██║██║  ██║╚█████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+```
+
+### `AI & Data Science Enthusiast | Builder | Researcher`
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanraj)
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanrajj@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PRIYANRAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanrajj-hub)
-![Profile Views](https://komarev.com/ghpvc/?username=priyanrajj-hub&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=priyanrajj-hub&style=for-the-badge&color=blueviolet&label=VIEWS)](https://github.com/priyanrajj-hub)
 
-<br/>
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=600&lines=B.Tech+CCE+%40+Amrita+Vishwa+Vidyapeetham;BS+Data+Science+%40+IIT+Madras;BS+DS+%26+AI+%40+IIT+Guwahati;AI+Researcher+%26+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=B.Tech+CCE+%40+Amrita+Vishwa+Vidyapeetham;BS+Data+Science+%40+IIT+Madras;BS+DS+%26+AI+%40+IIT+Guwahati;Building+at+the+intersection+of+AI+%26+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +34,7 @@ name       : Priyanraj J
 location   : Tamil Nadu, India
 education  : Amrita Vishwa Vidyapeetham + IIT Madras + IIT Guwahati
 degrees    : B.Tech CCE  +  BS Data Science  +  BS DSAI
-year       : First Year (2025–)
+year       : First Year (2025–2029)
 goal       : AI Researcher & Software Engineer
 ieee       : Active Member
 ```
@@ -55,26 +66,25 @@ ieee       : Active Member
 
 </div>
 
-**Learning →** DSA · Machine Learning · Artificial Intelligence · Data Structures
+**Learning →** DSA · Machine Learning · AI · Data Structures
 
 **Exploring →** Open Source · Research · Embedded Systems · Startups · Stock Market
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 💊 Pharmaceutical Evergreening Detection & Management
-> Patent registry system in **C** — fuzzy drug name matching via Levenshtein edit distance, struct-based data management, file I/O, and category/date table display.
+> Patent registry in **C** — fuzzy drug name matching via Levenshtein edit distance, struct-based records, file I/O, category/date table display.
 
 ![C](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-6ee7b7?style=flat-square)
 ![File I/O](https://img.shields.io/badge/File_I%2FO-818cf8?style=flat-square)
-![Data Management](https://img.shields.io/badge/Data_Management-f472b6?style=flat-square)
 
 ---
 
 ### 🤖 Smart Autonomous Patrol Robot
-> Embedded project — obstacle avoidance, gas & temperature sensors, velocity tracking, autonomous navigation.
+> Obstacle avoidance, gas & temperature sensors, velocity tracking, autonomous navigation.
 
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599c?style=flat-square&logo=c&logoColor=white)
 ![Sensors](https://img.shields.io/badge/Sensors-fbbf24?style=flat-square)
@@ -83,11 +93,10 @@ ieee       : Active Member
 ---
 
 ### 🐍 Student Management System
-> Full Python CLI — attendance, ranking, CSV export, backup, and reports.
+> Python CLI — attendance, ranking, CSV export, backup, reporting.
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-818cf8?style=flat-square)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/priyanrajj-hub/student-management-system-python)
 
 ---
@@ -96,10 +105,10 @@ ieee       : Active Member
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=tokyonight&hide_border=true&title_color=6ee7b7&icon_color=818cf8&text_color=e2e8f0&bg_color=0d1117&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=tokyonight&hide_border=true&title_color=6ee7b7&text_color=e2e8f0&bg_color=0d1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=priyanrajj-hub&show_icons=true&theme=tokyonight&hide_border=true&title_color=6ee7b7&icon_color=818cf8&text_color=e2e8f0&bg_color=0d1117&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanrajj-hub&layout=compact&theme=tokyonight&hide_border=true&title_color=6ee7b7&text_color=e2e8f0&bg_color=0d1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanrajj-hub&theme=tokyonight&hide_border=true&ring=6ee7b7&fire=f472b6&currStreakLabel=818cf8&sideLabels=e2e8f0&background=0d1117"/>
+<img src="https://streak-stats.demolab.com/?user=priyanrajj-hub&theme=tokyonight&hide_border=true&ring=6ee7b7&fire=f472b6&currStreakLabel=818cf8&background=0d1117"/>
 
 </div>
 
@@ -107,11 +116,13 @@ ieee       : Active Member
 
 ## 🏆 Certifications
 
-- ✦ **NPTEL** — The Joy of Computing Using Python
-- ✦ **NPTEL** — English Language for Competitive Exams
-- ✦ **Infosys** — Computational Problem Solving
-- ✦ **IIT Guwahati** — BS DSAI Orientation Course
-- ✦ **IEEE** — Active Member
+| | Certification |
+|---|---|
+| ✦ | **NPTEL** — The Joy of Computing Using Python |
+| ✦ | **NPTEL** — English Language for Competitive Exams |
+| ✦ | **Infosys** — Computational Problem Solving |
+| ✦ | **IIT Guwahati** — BS DSAI Orientation Course |
+| ✦ | **IEEE** — Active Member |
 
 ---
 
@@ -122,7 +133,7 @@ ieee       : Active Member
 [![LeetCode](https://img.shields.io/badge/LeetCode-PRIYANRAJ-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PRIYANRAJ)
 [![Codeforces](https://img.shields.io/badge/Codeforces-user__733863963-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/user_733863963)
 [![AtCoder](https://img.shields.io/badge/AtCoder-priyanraj-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/priyanraj)
-[![HackerRank](https://img.shields.io/badge/HackerRank-@priyanraj-00ea64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/priyanraj)
+[![HackerRank](https://img.shields.io/badge/HackerRank-priyanraj-00ea64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/priyanraj)
 
 </div>
 
@@ -130,10 +141,10 @@ ieee       : Active Member
 
 ## 🎯 2026 Roadmap
 
-```text
-Q2 2026  ████████░░  Master Python + DSA fundamentals
-Q3 2026  ██████░░░░  Build & deploy first AI/ML project
-Q4 2026  ████░░░░░░  Open Source contributions + research portfolio
+```
+Q2 2026  ████████░░  Master Python + DSA
+Q3 2026  ██████░░░░  Build & deploy first AI/ML project  
+Q4 2026  ████░░░░░░  Open Source + research portfolio
 2027     ██░░░░░░░░  GATE CSE prep · publish technical work
 ```
 
@@ -141,19 +152,17 @@ Q4 2026  ████░░░░░░  Open Source contributions + research po
 
 ## 💻 Workspace
 
-| Component | Spec |
+| | |
 |---|---|
-| 🖥 Machine | ASUS TUF Gaming Laptop |
-| ⚙️ CPU | Intel Core i7 |
-| 🎮 GPU | NVIDIA RTX 5060 |
-| 📍 Location | Tamil Nadu, India · UTC+5:30 |
+| 🖥 | ASUS TUF Gaming Laptop |
+| ⚙️ | Intel Core i7 |
+| 🎮 | NVIDIA RTX 5060 |
+| 📍 | Tamil Nadu, India · UTC+5:30 |
 
 ---
 
 <div align="center">
 
-*🦇 Learning Relentlessly · Building Consistently · Growing Every Day*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+**🦇 Learning Relentlessly · Building Consistently · Growing Every Day**
 
 </div>
