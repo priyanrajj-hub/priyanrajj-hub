@@ -150,17 +150,17 @@ Q4 2026  ████░░░░░░  Open Source + research portfolio
 
 ---
 ---
----
-
 ## 🚀 Personal Brand
 
 <div align="center">
 
-<img src="./bannerofme.png" alt="Priyanraj Banner" width="100%">
+<img src="banner.png" width="100%" alt="Priyanraj Banner"/>
 
 </div>
 
 ---
+
+
 
 
 
