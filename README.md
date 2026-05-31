@@ -154,7 +154,7 @@ Q4 2026  ████░░░░░░  Open Source + research portfolio
 
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Priyanraj Banner"/>
+<img src="./priyanrajport.png" width="100%" alt="Priyanraj Portfolio Banner">
 
 </div>
 
